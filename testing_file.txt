@@ -1,4 +1,3 @@
-<html>
 content for testing branch
 added content
 added extra line
@@ -6,4 +5,3 @@ added new line
 This line to see git pull
 this is another line.
 added a extra line.
-</html>
